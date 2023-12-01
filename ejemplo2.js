@@ -42,3 +42,4 @@ function sumar(num1, num2) {
   const resultado = calcular("suma", 5, 3);
   console.log("Resultado: " + resultado);
   
+  
